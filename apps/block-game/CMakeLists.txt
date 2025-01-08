@@ -10,6 +10,12 @@ add_executable(
   io.h
   io.c
 
+  block.h
+  block.c
+
+  chunk.h
+  chunk.c
+
   main.c
 )
 

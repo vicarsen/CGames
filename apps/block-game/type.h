@@ -22,3 +22,6 @@ typedef uint8_t bool;
 typedef int64_t isize;
 typedef uint64_t usize;
 
+#define TRUE 1
+#define FALSE 0
+
